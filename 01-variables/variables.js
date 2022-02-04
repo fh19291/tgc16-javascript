@@ -1,7 +1,5 @@
 // Data types in JavaScript
-// NUMBERS
-// integers
-// floats
+// Numbers, integers, floats
 // 
 // strings 
 // booleans
@@ -21,7 +19,7 @@
 // Variables
 // Variables basically stored values
 
-// create a js variable
+// create a js variable. use camelcase
 let secretOfLife = 42;
 console.log(secretOfLife);
 

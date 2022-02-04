@@ -11,10 +11,10 @@ console.log("1" - 1); // JS will automatically convert the
 // data types, it is prudent to convert
 
 // Data conversion functions
-let number = parseInt("42"); // returns integer 42
-let pi = parseFloat("3.14"); // return float 3.14
-let d = Number("2"); // return integer 2;
-let f = Number("3.14"); // return float 3.14
+let number = parseInt("42"); // returns integer 42 from a string
+let pi = parseFloat("3.14"); // return float 3.14 from a string
+let d = Number("2"); // return integer 2 from a string
+let f = Number("3.14"); // return float 3.14 from a string
 
 // Convert to string
 let secretOfLife = 42 + ""; // shortest way to convert to string
